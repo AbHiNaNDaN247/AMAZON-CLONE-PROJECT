@@ -1,0 +1,25 @@
+.panel {
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+}
+
+
+.panelop p {
+    display: inline;
+    margin-left: 20px;
+}
+
+.panelop {
+    width: 70%;
+    font-size: 1rem;
+    
+}
+
+.paneldeals {
+    font-size: 0.9rem;
+    font-weight: 700;
+}
